@@ -1,4 +1,8 @@
-body {
+html{
+   font-size: 62.5%;
+}
+
+body {    
     background: rgb(149, 149, 212);
     font: normal 1.26rem Arial;
 }
