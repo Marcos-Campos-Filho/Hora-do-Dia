@@ -1,7 +1,10 @@
 body {    
     background: rgb(149, 149, 212);
     font: normal 1.26rem Arial;
+    padding: 3.5rem;
 }
+
+div#msg {font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
 
 header {
     color: white;
